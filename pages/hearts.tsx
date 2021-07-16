@@ -4,8 +4,7 @@ import Link from 'next/link'
 
 const playUrl = 'https://hearts.sgjbryan.co.uk'
 const gitHubBaseUrl = 'https://github.com/sgjbryan'
-//TODO: make github repos public
-const serverRepoUrl = `${gitHubBaseUrl}/hearts-server`
+const serverRepoUrl = `${gitHubBaseUrl}/hearts-api`
 const clientRepoUrl = `${gitHubBaseUrl}/hearts-client`
 const monorepoRepoUrl = `${gitHubBaseUrl}/hearts-monorepo`
 

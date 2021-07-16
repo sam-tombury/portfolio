@@ -7,9 +7,9 @@ export default function Home(): ReactElement {
   return (
     <div className="text-center lg:ml-8 lg:text-left max-w-md mx-auto space-y-4">
       <p className="text-gray-700 text-sm">
-        Technology professional with commercial experience as a Lead Developer
-        in a fast-paced startup environment. Core technical skills include
-        functional Scala, AWS, SQL, and React.
+        Technology professional with a deep understanding of functional
+        programming, cultivated in a fast-moving finance startup. Core technical
+        skills include functional Scala, AWS, SQL, and React.
       </p>
       <div>
         <h2 className="text-gray-800 text-lg">Skills</h2>
